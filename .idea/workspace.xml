@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fee060fe-2831-4bdd-b25b-582db42de43a" name="更改" comment="commit测试">
+      <change beforePath="$PROJECT_DIR$/workspace.py" beforeDir="false" afterPath="$PROJECT_DIR$/workspace.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2pKCPIh4bFj1TQH5SnzRCSg4Ja2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/python_test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="fee060fe-2831-4bdd-b25b-582db42de43a" name="更改" comment="" />
+      <created>1732505355117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732505355117</updated>
+      <workItem from="1733815239266" duration="2289000" />
+      <workItem from="1733987615062" duration="6839000" />
+      <workItem from="1733994496897" duration="305000" />
+      <workItem from="1733994941925" duration="1500000" />
+      <workItem from="1734074549361" duration="1017000" />
+    </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1733988000683</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733988000683</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试">
+      <created>1733988119636</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733988119636</updated>
+    </task>
+    <task id="LOCAL-00003" summary="测试3">
+      <created>1733988229050</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733988229050</updated>
+    </task>
+    <task id="LOCAL-00004" summary="测试4">
+      <created>1733988320499</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733988320499</updated>
+    </task>
+    <task id="LOCAL-00005" summary="测试分支1">
+      <created>1733988795273</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733988795273</updated>
+    </task>
+    <task id="LOCAL-00006" summary="git 测试">
+      <created>1733991164582</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733991164582</updated>
+    </task>
+    <task id="LOCAL-00007" summary="reset测试">
+      <created>1733992852889</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733992852889</updated>
+    </task>
+    <task id="LOCAL-00008" summary="revert测试">
+      <created>1733993045245</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733993045245</updated>
+    </task>
+    <task id="LOCAL-00009" summary="resert测试">
+      <created>1733994711302</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733994711302</updated>
+    </task>
+    <task id="LOCAL-00010" summary="resert测试1">
+      <created>1733994770393</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733994770393</updated>
+    </task>
+    <task id="LOCAL-00011" summary="resert测试2">
+      <created>1733994799111</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733994799111</updated>
+    </task>
+    <task id="LOCAL-00012" summary="resert测试1">
+      <created>1733995574126</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733995574126</updated>
+    </task>
+    <task id="LOCAL-00013" summary="resert测试2">
+      <created>1733995591316</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733995591316</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Revert &quot;resert测试1&quot;&#10;&#10;This reverts commit 4bf82d80">
+      <created>1733996328590</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1733996328590</updated>
+    </task>
+    <task id="LOCAL-00015" summary="commit测试">
+      <created>1734075319766</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1734075319766</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <MESSAGE value="测试3" />
+    <MESSAGE value="测试4" />
+    <MESSAGE value="测试分支1" />
+    <MESSAGE value="git 测试" />
+    <MESSAGE value="reset测试" />
+    <MESSAGE value="revert测试" />
+    <MESSAGE value="resert测试" />
+    <MESSAGE value="resert测试1" />
+    <MESSAGE value="resert测试2" />
+    <MESSAGE value="Revert &quot;resert测试1&quot;&#10;&#10;This reverts commit 4bf82d80" />
+    <MESSAGE value="commit测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit测试" />
+  </component>
+</project>
