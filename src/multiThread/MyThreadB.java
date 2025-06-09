@@ -5,8 +5,6 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-import static multiThread.MyThread.lock;
-
 // 采用contidional signaling条件唤醒实现多线程，相比抢占式锁，性能更高
 public class MyThreadB {
 

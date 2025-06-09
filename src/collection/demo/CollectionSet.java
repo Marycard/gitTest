@@ -1,20 +1,17 @@
 package collection.demo;
 
-import java.util.HashSet;
+import java.util.Arrays;
 import java.util.List;
-import java.util.Set;
-import java.util.TreeSet;
 
 public class CollectionSet {
     public static void main(String[] args) {
-        List<Message> received = List.of(
+        List<Message> received = Arrays.asList(
                 new Message(1, "Hello!"),
                 new Message(2, "发工资了吗？"),
                 new Message(2, "发工资了吗？"),
                 new Message(3, "去哪吃饭？"),
                 new Message(3, "去哪吃饭？"),
-                new Message(4, "Bye")
-        );
+                new Message(4, "Bye"));
         List<Message> displayMessages = process(received);
         for (Message message : displayMessages) {
             System.out.println(message.text);
